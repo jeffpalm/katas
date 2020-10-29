@@ -1,2 +1,2 @@
 ## Kata Catalog
-- [Coin Flip](./coin-flip/README.md)
+- [Coin Flip](./coin-flip)
