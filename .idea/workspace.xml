@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f2d652c-ec9f-49ba-9fcc-c3521c066369" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fraction-to-mixed-num/fraction-to-mixed-num.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/fraction-to-mixed-num/fraction-to-mixed-num.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snakes-and-ladders/snakes-and-ladders.js" beforeDir="false" afterPath="$PROJECT_DIR$/snakes-and-ladders/snakes-and-ladders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snakes-and-ladders/snakes-and-ladders.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/snakes-and-ladders/snakes-and-ladders.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jeXKal7YrJduSZuycl9wng61xT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f2d652c-ec9f-49ba-9fcc-c3521c066369" name="Default Changelist" comment="" />
+      <created>1604165469009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604165469009</updated>
+      <workItem from="1604165470603" duration="1056000" />
+      <workItem from="1604175590962" duration="149000" />
+      <workItem from="1604175745906" duration="2719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1650" y="715" width="1022" height="737" key="SettingsEditor" timestamp="1604175738015">
+      <screen x="0" y="213" width="3840" height="1947" />
+    </state>
+    <state x="1650" y="715" width="1022" height="737" key="SettingsEditor/3840.186.1920.1080/0.213.3840.1947@0.213.3840.1947" timestamp="1604175738015" />
+  </component>
+</project>

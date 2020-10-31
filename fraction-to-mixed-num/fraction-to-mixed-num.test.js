@@ -23,6 +23,9 @@ describe('Normal tests', () => {
 
 describe('Error handling', () => {
   test('Must raise ZeroDivisionError', () => {
-     expect(mixedFraction('3/0')).toThrowError()
+    function divideByZero(){
+      mixedFraction('3/0')
+    }
+     expect(divideByZero).toThrowError('ZeroDivisionError')
   })
 })
