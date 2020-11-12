@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2d652c-ec9f-49ba-9fcc-c3521c066369" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximum-subarray-sum/maximum-subarray-sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/maximum-subarray-sum/maximum-subarray-sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximum-subarray-sum/maximum-subarray-sum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/maximum-subarray-sum/maximum-subarray-sum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jeXKal7YrJduSZuycl9wng61xT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +31,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +47,7 @@
       <workItem from="1604175590962" duration="149000" />
       <workItem from="1604175745906" duration="2719000" />
       <workItem from="1605200574518" duration="373000" />
+      <workItem from="1605202412161" duration="3712000" />
     </task>
     <servers />
   </component>
@@ -44,17 +55,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1650" y="715" width="1022" height="737" key="SettingsEditor" timestamp="1604175738015">
-      <screen x="0" y="213" width="3840" height="1947" />
+    <state x="825" y="298" width="900" height="737" key="SettingsEditor" timestamp="1605202729830">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="825" y="298" width="900" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1605202729830" />
     <state x="1650" y="715" width="1022" height="737" key="SettingsEditor/3840.186.1920.1080/0.213.3840.1947@0.213.3840.1947" timestamp="1604175738015" />
     <state x="-1846" y="503" width="700" height="530" key="recent.locations.popup" timestamp="1605200603362">
       <screen x="-3840" y="-287" width="3840" height="2120" />
     </state>
     <state x="-1846" y="503" width="700" height="530" key="recent.locations.popup/0.0.1080.1880/-3840.-287.3840.2120@-3840.-287.3840.2120" timestamp="1605200603362" />
-    <state x="-1824" y="212" key="search.everywhere.popup" timestamp="1605200610294">
-      <screen x="-3840" y="-287" width="3840" height="2120" />
+    <state x="1008" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1605202514398">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="-1824" y="212" key="search.everywhere.popup/0.0.1080.1880/-3840.-287.3840.2120@-3840.-287.3840.2120" timestamp="1605200610294" />
+    <state x="1008" y="275" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1605202514398" />
   </component>
 </project>
